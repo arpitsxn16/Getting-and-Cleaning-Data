@@ -1,0 +1,14 @@
+activityLabels - names of the activities
+features  - names of the features
+featuresWanted - mean and std 
+measurements - measurements containing mean and std
+
+train activities - Y_train.txt
+trainsubjects- subject_train.txt
+train- subject_train.txt + X_train.txt + Y_train.txt 
+
+test activities - Y_train.txt
+test subjects- subject_train.txt
+test- subject_train + X_train.txt + Y_train 
+
+combined - train + test data
